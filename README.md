@@ -1,1 +1,1 @@
-This is a booktracker project that I have created. To make the code function, you have to install npm and build, afterwards you should "npm start". The code consists of a Book API created and fetched which is being presented on the website.
+This is a Book Tracker project that I have created. To make the code function, you have to install npm and build, afterwards you should "npm start". The code consists of a Book API created and fetched which is being presented on the website.
